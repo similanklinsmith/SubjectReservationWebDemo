@@ -2,7 +2,7 @@
   <div class="home">
     <br />
     <p style="font-family: Roboto; font-size: 18pt">
-      Feature/List-Subjects
+      SIT Subjects Reservation Web on netlify
     </p>
     <br />
     <v-row justify="center" align="top" no-gutters style="height: 150px">
